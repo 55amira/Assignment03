@@ -99,7 +99,24 @@
 
             #endregion
 
+            #region  Write a program that allows the user to insert an integer then  print a multiplication table up to 12.
+
+            //Console.Write("Enter The Number : ");
+            //int.TryParse(Console.ReadLine(), out int Number);
+            //int Result = 0;
+            //for (int i = 1 ; i <= 12; i++)
+            //{
+            //     Result += Number;
+
+            //    Console.WriteLine(Result);
+            
+            //}
+
+            #endregion
+
+
         }
+
 
     }
 }

@@ -87,6 +87,17 @@
             //    Console.WriteLine("Consonant"); 
             #endregion
 
+            #region 6- Write a program that allows the user to insert an integer then print all numbers between 1 to that number.
+
+            //Console.Write("Enter The Number : ");
+            //int.TryParse(Console.ReadLine(), out int Number);
+
+            //for (int i = 1; i <= Number; i++)
+            //{
+            //    Console.Write(i);
+            //}
+
+            #endregion
 
         }
 

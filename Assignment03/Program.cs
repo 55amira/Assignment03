@@ -145,6 +145,21 @@
             //Console.WriteLine(Result); 
             #endregion
 
+            #region Write a program to enter marks of five subjects and calculate total, average and percentage
+            //Console.WriteLine("Enter Marks of five subjects:  ");
+            //int.TryParse(Console.ReadLine(), out int Number01);
+            //int.TryParse(Console.ReadLine(), out int Number02);
+            //int.TryParse(Console.ReadLine(), out int Number03);
+            //int.TryParse(Console.ReadLine(), out int Number04);
+            //int.TryParse(Console.ReadLine(), out int Number05);
+
+            //int TotalMarks = Number01 + Number02 + Number03 + Number04 + Number05;
+            //Console.WriteLine($"TotalMarks = {TotalMarks}");
+            //int AverageMarks = TotalMarks / 5;
+            //Console.WriteLine($"AverageMarks = {AverageMarks}");
+            //int Percentage = (int)(AverageMarks * 0.01); 
+            #endregion
+
         }
 
 

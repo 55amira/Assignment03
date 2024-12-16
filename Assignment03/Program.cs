@@ -73,7 +73,7 @@
             #endregion
 
 
-            #region  Q5 Write a program that takes character from the user then if it is a vowel chars (a,e,I,o,u) then print (vowel) otherwise print (consonant).
+            #region  Q5 Write a program that takes character  from the user then if it is a vowel chars (a,e,I,o,u) then print (vowel) otherwise print (consonant).
             //string vowel = "a,e,i,u,o";
 
             //Console.Write("Enter The character : ");

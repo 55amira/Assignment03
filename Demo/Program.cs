@@ -134,6 +134,19 @@
             //Console.WriteLine("HashCode= " + Message.GetHashCode());
 
             #endregion
+
+            #region StringBuilder
+            //StringBuilder Message = new StringBuilder("Hello ");
+            //Console.WriteLine("Message: " + Message);
+            //Console.WriteLine("HashCode= "+Message.GetHashCode());
+
+            //Console.WriteLine();
+
+            //Message.Append(" ahmed");
+            //Console.WriteLine("Message: " + Message);
+            //Console.WriteLine("HashCode= " + Message.GetHashCode());
+
+            #endregion
         }
     }
 }

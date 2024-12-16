@@ -73,6 +73,41 @@
             //    Console.WriteLine(Numbers[i]);
             //} 
             #endregion
+
+            #region Control Statment: 3.Loops Statment (While,doWhile)
+
+            //while (true) 
+            //{
+            //    Console.WriteLine("Hello Word");
+            //}
+
+            //int i = 1;
+            //while (i<=10)
+            //{
+            //    Console.WriteLine("Hello Word");
+            //    i++;
+            //}
+            //Console.WriteLine(i);
+            //int i = 1;
+            //do 
+            //{
+
+            //    Console.WriteLine("Hello Word");
+            //     i++;
+
+
+            //} while (i<=10);
+
+            //int Number;
+            //bool Flage;
+            //do
+            //{
+            //    Console.Write("Enter Even Number : ");
+            //   Flage=  int.TryParse(Console.ReadLine(), out Number );
+            //} while (Number % 2 != 0 || Flage==false);
+            //Console.WriteLine(Number);
+
+            #endregion
         }
     }
 }

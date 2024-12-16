@@ -160,6 +160,46 @@
             //int Percentage = (int)(AverageMarks * 0.01); 
             #endregion
 
+            #region 11- Write a program to input the month number and print the number of days in that month.
+
+            //Console.Write("Enter The Number : ");
+            //int.TryParse(Console.ReadLine(), out int Number);
+
+            //switch (Number)
+            //{
+            //    case 1:
+            //    case 3:
+            //    case 5:
+            //    case 7:
+            //    case 8:
+            //    case 10:
+            //    case 12:
+            //        Console.WriteLine("Days in Month: 31");
+            //        break;
+            //    case 2:
+            //        Console.WriteLine("Days in Month: 28");
+            //        break;
+            //    default:
+            //        Console.WriteLine("Days in Month: 30");
+            //        break;
+            //} 
+            #endregion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         }
 
 

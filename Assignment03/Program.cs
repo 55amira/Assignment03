@@ -12,6 +12,15 @@
             //else
             //    Console.WriteLine("No"); 
             #endregion
+
+            #region Write a program that allows the user to insert an integer then print negative if it is negative number otherwise print positive.
+            //Console.Write("Enter the Number :");
+            //int.TryParse(Console.ReadLine(), out int Number);
+            //if (Number >= 0)
+            //    Console.WriteLine("positive");
+            //else
+            //    Console.WriteLine("negative"); 
+            #endregion
         }
     }
 }

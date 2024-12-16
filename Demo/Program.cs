@@ -15,6 +15,40 @@
             //string message3 = $"Equation : {X}+{Y}={X + Y}";
             //Console.WriteLine(message3);  
             #endregion
+
+            #region Control Statment: 1.Loops Statment (If,Switch)
+            //Console.Write("Enter Number Of Month 1st Quarter :");
+            //int NumberMonth = int.Parse(Console.ReadLine());
+
+            //if (NumberMonth == 1)
+            //{
+            //    Console.WriteLine("Jan");
+            //}
+            //else if (NumberMonth == 2)
+            //{
+            //    Console.WriteLine("Feb");
+            //}
+            //else if (NumberMonth == 3)
+            //{
+            //    Console.WriteLine("Mar");
+            //}
+            //else
+            //Console.WriteLine("invalid");
+
+            //switch (NumberMonth) {
+            //    case 1:
+            //        Console.WriteLine("Jan");
+            //        break;
+            //    case 2:
+            //        Console.WriteLine("Feb");
+            //        break;
+            //    case 3:
+            //        Console.WriteLine("Mar");
+            //        break;
+            //    default:
+            //        Console.WriteLine("invalid");
+            //        break; 
+            #endregion
         }
     }
 }

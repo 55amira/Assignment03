@@ -123,13 +123,27 @@
             //{
             //    if (i % 2 == 0)
             //        Console.WriteLine(i);
-            
+
             //}
 
             #endregion
 
+            #region Write a program that takes two integers then prints the power
+            //Console.Write("Enter The Number : ");
+            //int.TryParse(Console.ReadLine(), out int Number);
 
+            //Console.Write("Enter The Times : ");
+            //int.TryParse(Console.ReadLine(), out int Times);
 
+            //int Result = 1;
+
+            //for (int i = 0; i < Times; i++)
+            //{
+            //    Result *= Number;
+
+            //}
+            //Console.WriteLine(Result); 
+            #endregion
 
         }
 

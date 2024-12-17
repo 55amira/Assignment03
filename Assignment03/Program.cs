@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             #region Write a program that takes a number from the user then print yes if that number can be divided by 3 and 4 otherwise print no
             //Console.Write("Enter Your Number : ");
@@ -201,6 +201,19 @@
             //    Console.WriteLine($"{Number1} * {Number2} = {Number1 * Number2}");
             //else if (Operator == "/")
             //    Console.WriteLine($"{Number1} / {Number2} = {Number1 / Number2}"); 
+            #endregion
+
+            #region 13- Write a program to allow the user to enter a string and print the REVERSE of it.
+            //Console.Write("Enter String ");
+            //string S=Console.ReadLine();
+            //String S2 = "";
+            //for (int i = S.Length - 1; i >= 0; i--) 
+            //{
+
+            //    S2 += S[i];
+
+            //}
+            //Console.Write(S2); 
             #endregion
 
 

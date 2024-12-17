@@ -185,6 +185,28 @@
             //} 
             #endregion
 
+            #region 12- Write a program to create a Simple Calculator.
+
+
+            //Console.WriteLine("Enter Frist Number And Second Number And Chose (+,-,*,/)");
+            //int.TryParse(Console.ReadLine(), out int Number1);
+            //int.TryParse(Console.ReadLine(), out int Number2);
+            //string Operator=Console.ReadLine();
+
+            //if (Operator == "+")
+            //    Console.WriteLine($"{Number1} + {Number2} = {Number1+Number2}");
+            //else if (Operator == "-")
+            //    Console.WriteLine($"{Number1} - {Number2} = {Number1 - Number2}");
+            //else if (Operator == "*")
+            //    Console.WriteLine($"{Number1} * {Number2} = {Number1 * Number2}");
+            //else if (Operator == "/")
+            //    Console.WriteLine($"{Number1} / {Number2} = {Number1 / Number2}"); 
+            #endregion
+
+
+
+
+
 
 
 

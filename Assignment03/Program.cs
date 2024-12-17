@@ -217,9 +217,19 @@
             #endregion
 
 
+            #region  Write a program to allow the user to enter int and print the REVERSED of it.
 
+            //Console.Write("Enter The Number : ");
+            //int.TryParse(Console.ReadLine(), out int Number);
 
-
+            //int Number02 = 0;
+            //while (Number > 0)
+            //{
+            //    Number02 = Number02 * 10 + Number % 10;
+            //    Number = Number / 10;
+            //}
+            //Console.WriteLine(Number02); 
+            #endregion
 
 
 

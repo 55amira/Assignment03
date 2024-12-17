@@ -309,24 +309,19 @@
             //} 
             #endregion
 
-            #region 18- Within a company, the efficiency of workers is evaluated based on the duration required to complete a specific task. A worker's efficiency level is determined as follows: 
-            -If the worker completes the job within 2 to 3 hours, they are considered highly efficient.
-            - If the worker takes 3 to 4 hours, they are instructed to increase their speed.
-            - If the worker takes 4 to 5 hours, they are provided with training to enhance their speed.
-            - If the worker takes more than 5 hours, they are required to leave the company.
-To calculate the efficiency of a worker, the time taken for the task is obtained via user input from the keyboard.
+            #region 18- Within a company, the efficiency of workers is evaluated based on the duration required to complete a specific task. A worker's efficiency level is determined as follows: - If the worker completes the job within 2 to 3 hours, they are considered highly efficient. If the worker takes 3 to 4 hours, they are instructed to increase their speed.  If the worker takes 4 to 5 hours, they are provided with training to enhance their speed.  If the worker takes more than 5 hours, they are required to leave the company.  calculate the efficiency of a worker, the time taken for the task is obtained via user input from the keyboard.
 
             //Console.Write("Enter The Time : ");
             //int.TryParse(Console.ReadLine(), out int Time);
 
-                                                                                                    //if (Time >= 2 && Time < 3)
-                                                                                                    //    Console.WriteLine("they are considered highly efficient");
-                                                                                                    //else if (Time >= 3 && Time < 4)
-                                                                                                    //    Console.WriteLine("they are instructed to increase their speed");
-                                                                                                    //else if (Time >= 4 && Time < 5)
-                                                                                                    //    Console.WriteLine("they are provided with training to enhance their speed");
-                                                                                                    //else Console.WriteLine("they are required to leave the company"); 
-                                                                                                    #endregion
+            //if (Time >= 2 && Time < 3)
+            //    Console.WriteLine("they are considered highly efficient");
+            //else if (Time >= 3 && Time < 4)
+            //    Console.WriteLine("they are instructed to increase their speed");
+            //else if (Time >= 4 && Time < 5)
+            //    Console.WriteLine("they are provided with training to enhance their speed");
+            //else Console.WriteLine("they are required to leave the company"); 
+            #endregion
 
 
 
